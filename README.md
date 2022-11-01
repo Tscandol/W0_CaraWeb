@@ -1,6 +1,6 @@
 # W0_CaraWeb
 
-CARAWEB :  
+CARAWEB : 	/appveyor/build/:user/:repo
 6 Pages Fully Responsive Ecommerce Website.   
 The Website has been made from scratch fully customized only using JS, CSS and HTML.  
 Realised as a personnal project.   
