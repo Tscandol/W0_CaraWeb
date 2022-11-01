@@ -2,7 +2,7 @@
 
 CARAWEB :
 6 Pages Fully Responsive Ecommerce Website.
-The Website has been made from scratch fully customized only using JS, CSS and HTML 
+The Website has been made from scratch fully customized only using JS, CSS and HTML.
 Realised as a personnal project. 
 Backend isn't functional connected on this demonstration version
 
