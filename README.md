@@ -7,7 +7,4 @@ Realised as a personnal project.
 Backend isn't connected on this demonstration version  
 If you want to see it live, check out my personal portflio at  :   
 
-![project1](https://user-images.githubusercontent.com/71343777/199222453-e4532681-84f8-4b23-ab7f-180f4ed82a52.png)
-
-
-
+![project1](https://user-images.githubusercontent.com/71343777/199222453-e4532681-84f8-4b23-ab7f-180f4ed82a52.png)  
